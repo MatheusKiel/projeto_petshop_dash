@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Petshop DB",
+            "database": "db_petshop",
+            "username": "postgres",
+            "password": "postgres"
+        }
+    ]
+}
