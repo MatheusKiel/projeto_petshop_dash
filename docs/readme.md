@@ -3,3 +3,4 @@
 Bibliotecas Python:
 - NumPy
 - Pandas
+- Faker
